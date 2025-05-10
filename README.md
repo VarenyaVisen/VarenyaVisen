@@ -1,4 +1,5 @@
 # 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varenyavisen&label=Profile%20views&color=0e75b6&style=flat" alt="varenyavisen" /> </p>
 🎓 Final-year B.Tech CSE (AI/ML) student at Sushant University<br><br>🤖 Passionate about AI, Machine Learning & Deep Learning<br><br>💻 Currently learning: AI, Data Structures & Algorithms (DSA), and Web Development<br><br>🛠️ Building real-world, resume-worthy projects<br><br>🥋 Black Belt in Taekwondo | Played at international & national levels<br><br>🎭 Vice President – Anime Club, Sushant University<br><br>🌱 Always learning & open to collaboration and new opportunities
 
 <h3 align="left">Connect with me:</h3>
