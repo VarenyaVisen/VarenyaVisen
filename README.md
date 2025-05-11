@@ -1,7 +1,8 @@
-<h3>💫 About Me:</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=varenyavisen&label=Profile%20views&color=0e75b6&style=flat" alt="varenyavisen" />
 </p>
+<h3>💫 About Me:</h3>
+<h2>Hi, I am Varenya Visen</h2>
 <p align="left">
 🎓 B.Tech CSE (AI/ML), graduating May 2025 from Sushant University<br>
 🤖 Enthusiastic about AI, Machine Learning, and Full-Stack Development<br>
