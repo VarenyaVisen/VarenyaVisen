@@ -1,7 +1,7 @@
+<img src="https://i.imgur.com/1ZvVkDc.gif" alt="gif for github"></img>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=varenyavisen&label=Profile%20views&color=0e75b6&style=flat" alt="varenyavisen" />
 </p>
-<h3>💫 About Me:</h3>
 <h2>Hi, I am Varenya Visen</h2>
 <p align="left">
 🎓 B.Tech CSE (AI/ML), graduating May 2025 from Sushant University<br>
@@ -9,14 +9,6 @@
 💻 Skilled in Python, Java, DSA, and building real-world projects<br>
 🥋 Taekwondo Black Belt | Represented India at international level<br>
 🌱 Fast learner, team player, and open to exciting opportunities
-</p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varenya visen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varenya visen" height="30" width="40" /></a>
-<a href="https://instagram.com/yourvarenya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourvarenya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varenyavisen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varenyavisen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -93,12 +85,20 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/varenya visen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varenya visen" height="30" width="40" /></a>
+<a href="https://instagram.com/yourvarenya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourvarenya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/varenyavisen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varenyavisen" height="30" width="40" /></a>
+</p>
 
 </p>
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=varenyavisen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=varenyavisen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=varenyavisen&icon=0&color=0)](https://visitcount.itsvg.in)
