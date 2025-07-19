@@ -4,12 +4,13 @@
 </p>
 <h2>Hi, I am Varenya Visen</h2>
 <p align="left">
-🎓 B.Tech CSE (AI/ML), graduating May 2025 from Sushant University<br>
-🤖 Enthusiastic about AI, Machine Learning, and Full-Stack Development<br>
-💻 Skilled in Python, Java, DSA, and building real-world projects<br>
-🥋 Taekwondo Black Belt | Represented India at international level<br>
-🌱 Fast learner, team player, and open to exciting opportunities
+🎓 B.Tech in Computer Science (AI/ML), graduated in 2025 from Sushant University<br>
+🤖 Interested in Artificial Intelligence, Machine Learning, and Generative AI<br>
+💻 Skilled in Python, Java, and Data Structures & Algorithms<br>
+🥋 Black Belt in Taekwondo | Represented India at international events<br>
+🌱 Quick learner, team player, and open to new opportunities
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
