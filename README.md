@@ -1,4 +1,3 @@
-<img src="https://i.imgur.com/1ZvVkDc.gif" alt="gif for github"></img>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=varenyavisen&label=Profile%20views&color=0e75b6&style=flat" alt="varenyavisen" />
 </p>
