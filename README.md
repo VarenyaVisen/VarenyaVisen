@@ -5,7 +5,7 @@
 <p align="left">
 🤖 AI Engineer at Kellton, specializing in Artificial Intelligence, Machine Learning, and Generative AI<br>
 🎓 B.Tech in Computer Science (AI/ML) graduate from Sushant University (2025)<br>
-💻 Proficient in Python, Java, and Data Structures & Algorithms with hands-on experience in building AI-driven solutions<br>
+💻 Proficient in Python and Data Structures & Algorithms with hands-on experience in building AI-driven solutions<br>
 🥋 Black Belt in Taekwondo | Former international athlete representing India<br>
 🌱 Passionate about leveraging AI to solve real-world problems and continuously exploring emerging technologies
 </p>
